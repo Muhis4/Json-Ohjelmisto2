@@ -11,3 +11,9 @@ Completed assignments:
 
 task 1 and 2 are completed in Main.html, and tast 3 is in 2.html
 **Total 6p**
+
+### JS modules 4
+
+Every task is completed except two last ones.
+
+**Total 22p**
